@@ -20,4 +20,4 @@ Digital literacy and safe internet
 Digital literacy and professional online presence
 Digital literacy and email etiquette
 
-📁 File available in: task-1-presentation/
+📁 File available in: task-1-presentation
