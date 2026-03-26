@@ -1,15 +1,25 @@
 # Social Media Do’s & Don’ts
 
 ✔ DO’s
-Use strong and secure passwords.
-Maintain professional social media profiles.
-Verify the information you share.
-Be respectful to others.
-Set privacy settings correctly.
+- Use strong and secure passwords
+- Enable two-factor authentication (2FA)
+- Keep your profile professional and updated
+- Think before posting anything online
+- Share useful and positive content
+- Respect others in comments and messages
+- Verify information before sharing
+- Use privacy settings to control your data
+- Connect with professionals for learning and growth
+- Report suspicious or fake accounts
 
 ❌ DON’Ts
-Don’t share personal information.
-Don’t spread false news.
-Don’t use abusive language.
-Don’t accept friend requests from unknown people.
-Don’t click on suspicious links.
+- Don’t share personal information (address, phone number, passwords)
+- Don’t post offensive, abusive, or inappropriate content
+- Don’t spread fake news or misinformation
+- Don’t click on unknown or suspicious links
+- Don’t accept requests from strangers
+- Don’t engage in online arguments or cyberbullying
+- Don’t overshare your private life
+- Don’t use weak or same passwords everywhere
+- Don’t ignore privacy settings
+- Don’t post anything that can harm your reputation
