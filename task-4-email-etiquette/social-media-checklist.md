@@ -1,4 +1,4 @@
-Social Media Do’s & Don’ts
+# Social Media Do’s & Don’ts
 
 ✔ DO’s
 Use strong and secure passwords.
