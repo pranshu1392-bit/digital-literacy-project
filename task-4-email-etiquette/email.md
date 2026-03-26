@@ -11,6 +11,7 @@ I have been unwell for the past few days, which has affected my work on the assi
 I apologize for the inconvenience caused and assure you that the assignment will be submitted within the extended deadline.
 
 Sincerely,
+
 Pranshu Singh
 
 -----------------
@@ -32,4 +33,5 @@ I would be grateful to you for considering my application for the available inte
 Thank you for your time and consideration.
 
 Sincerely,
+
 Pranshu Singh
