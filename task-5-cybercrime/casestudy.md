@@ -1,4 +1,4 @@
-UPI Fraud Case Study
+# UPI Fraud Case Study
 
 
 The most common cybercrime in India involving the UPI (Unified Payments Interface) is UPI fraud, which usually occurs when attackers trick users into revealing sensitive information such as OTPs, PINs, etc.
