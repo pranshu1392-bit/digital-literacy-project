@@ -1,4 +1,4 @@
-Email 1 – Assignment Extension
+# Email 1 – Assignment Extension
 
 Subject: Request for Extension on Assignment Submission
 
@@ -15,7 +15,7 @@ Pranshu Singh
 
 -----------------
 
-Email 2 – Internship Application
+# Email 2 – Internship Application
 
 Subject: Application for Summer Internship Opportunity
 
